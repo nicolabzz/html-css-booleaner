@@ -17,8 +17,10 @@ header{
 
 /* --------------- */
 .contenitore{
-    width: 1010px;
+    width: 1200px;
     margin: auto;
+    padding-left: 90px;
+    padding-right: 90px;
 }
 
 h1{
@@ -42,11 +44,13 @@ strong{
 /* --------------- */
 #sottotesto{
     margin-bottom: 20px;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 #primoLorem{
     margin-bottom: 25px;
     font-weight: 600;
+    font-family: 'Josefin Sans', sans-serif;
 }
 span{
     background:#FFFF00;
@@ -55,46 +59,54 @@ span{
 #Lista{
     margin-bottom: 25px;
     font-weight: 600;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 
 /* ------PARTE TABELLA------- */
 #thead{
-    background-color: rgb(0, 0, 0);
-    color: rgb(215, 255, 68);
+    background-color: rgba(32,169,229,255);
+    color: rgba(255,255,255,255);
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 .colonna1{
     display: inline-block;
     width: 24%;
+    font-weight: 600;
 }
 .colonna2{
     display: inline-block;
     width: 24%;
+    font-weight: 600;
 }
 .colonna3{
     display: inline-block;
     width: 49%;
     text-align: justify;
+    font-weight: 600;
 }
 
 #tbody1{
-    background-color: cornflowerblue;
-    display: tableò
+    background-color: rgb(177,229,242,255);
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 #tbody2{
     background-color: rgb(255, 255, 255);
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 #tbody3{
-    background-color: cornflowerblue;
+    background-color: rgb(177,229,242,255);
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 #secondoLorem{
     margin-top: 25px;
     margin-bottom: 25px;
     font-weight: 600;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 .footerImg{
@@ -106,4 +118,5 @@ span{
 
 h4{
     color: darkgrey;
+    font-family: 'Josefin Sans', sans-serif;
 }
