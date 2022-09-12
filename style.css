@@ -70,6 +70,26 @@ span{
     font-family: 'Josefin Sans', sans-serif;
 }
 
+.RTHead1{
+    display: inline-block;
+    width: 24%;
+    font-weight: 600;
+}
+.RTHead2{
+    display: inline-block;
+    width: 24%;
+    font-weight: 600;
+}
+.RTHead3{
+    display: inline-block;
+    width: 49%;
+    text-align: justify;
+    font-weight: 600;
+}
+
+
+
+
 .colonna1{
     display: inline-block;
     width: 24%;
@@ -86,6 +106,9 @@ span{
     text-align: justify;
     font-weight: 600;
 }
+
+
+
 
 #tbody1{
     background-color: rgb(177,229,242,255);
