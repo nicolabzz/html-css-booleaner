@@ -127,6 +127,7 @@ span{
     font-family: 'Josefin Sans', sans-serif;
 }
 
+/* --------------- */
 #secondoLorem{
     margin-top: 25px;
     margin-bottom: 25px;
@@ -134,8 +135,6 @@ span{
     font-family: 'Josefin Sans', sans-serif;
 }
 
-
-/* --------------- */
 .footerImg{
     display: block;
     width: 20%;
