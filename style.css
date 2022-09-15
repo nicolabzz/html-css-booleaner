@@ -71,7 +71,29 @@ span{
 
 
 /* ------PARTE TABELLA------- */
-#thead{
+
+table{
+    border-collapse: collapse;
+}
+
+.row-head{
+    background-color: blue;
+    text-align: left;
+    color: white;
+}
+
+.row-dark{
+    background-color: aqua;
+}
+
+.cell-25{
+    width: 25%;
+}
+
+.cell-50{
+    width: 50;
+}
+/* #thead{
     background-color: rgba(32,169,229,255);
     color: rgba(255,255,255,255);
     font-family: 'Josefin Sans', sans-serif;
@@ -125,7 +147,7 @@ span{
 #tbody3{
     background-color: rgb(177,229,242,255);
     font-family: 'Josefin Sans', sans-serif;
-}
+} */
 
 /* --------------- */
 #secondoLorem{
